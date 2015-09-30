@@ -2,6 +2,8 @@
 
 This is a really useful site - it displays a cat gif with a random message.
 
+![A random cat gif](http://thecatapi.com/api/images/get?format=src&type=gif)
+
 This repo is used to test out integration with [Sentry](http://getsentry.com).
 
 ## Installation
