@@ -4,10 +4,16 @@ This is a really useful site - it displays a cat gif with a random message.
 
 This repo is used to test out integration with [Sentry](http://getsentry.com).
 
+## Installation
+
+```
+npm install
+```
+
 ## Usage
 
 ```
-node index.js
+npm start
 ```
 
 Browse to `http://localhost:3000` to see the cats in all their glory.
